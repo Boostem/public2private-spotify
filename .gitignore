@@ -1,3 +1,4 @@
 .cache
 .env
 .spotipy_token
+unfollowed_playlists*.txt
